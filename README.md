@@ -7,6 +7,7 @@ To convert csv, for instance, to html, just execute the following command in you
 
 Input csv should have headers on the first line and data on the others. Good example of input csv is:
 >name,address,contact,phone
+
 >Kremlin,"Russia, Moscow, Red Square, 1",Ivan Petrov,123-222-111
 
 
